@@ -61,8 +61,6 @@ BIGDATA_LAB_cluster_spark/
 
 ## 🔬 Notebook Google Colab - Analyses PySpark avec MongoDB
 
-### Notebook d'analyse disponible :
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUSSEF-BT/BIGDATA_LAB_cluster_spark/blob/main/colab_notebooks/TP_Cluster_spark_colab.ipynb)
 
 ### 📓 Contenu du Notebook Principal : `TP_Cluster_spark_colab.ipynb`
 
@@ -325,42 +323,7 @@ docker-compose down
 - Automatisation des déploiements avec Docker
 - Analyse de performances des jobs Spark
 
----
 
-## 🔗 Liens Utiles
 
-### Documentation Officielle
-- [Apache Spark Documentation](https://spark.apache.org/docs/latest/)
-- [Hadoop Documentation](https://hadoop.apache.org/docs/current/)
-- [YARN Documentation](https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html)
-- [MongoDB Spark Connector](https://www.mongodb.com/docs/spark-connector/current/)
-- [Docker Compose Documentation](https://docs.docker.com/compose/)
-
-### Ressources du TP
-- [Notebook Colab](https://colab.research.google.com/github/YOUSSEF-BT/BIGDATA_LAB_cluster_spark/blob/main/colab_notebooks/TP_Cluster_spark_colab.ipynb)
-- [Énoncé du TP (PDF)](documentation/lab_cluster_spark_25-26.pdf)
-- [Dépôt GitHub](https://github.com/YOUSSEF-BT/BIGDATA_LAB_cluster_spark)
-
----
-
-## 👨‍💻 Auteur
-**Youssef Bouzit**  
-Étudiant en Data Science  
-Année Universitaire 2025-2026
-
-## 📧 Contact
-- **GitHub** : [YOUSSEF-BT](https://github.com/YOUSSEF-BT)
-- **Dépôt du TP** : [BIGDATA_LAB_cluster_spark](https://github.com/YOUSSEF-BT/BIGDATA_LAB_cluster_spark)
-- **Notebook Colab** : [Lien Direct](https://colab.research.google.com/github/YOUSSEF-BT/BIGDATA_LAB_cluster_spark/blob/main/colab_notebooks/TP_Cluster_spark_colab.ipynb)
-
----
-
-## 📄 Licence
-Ce projet est disponible sous licence MIT. Voir le fichier LICENSE pour plus de détails.
-
----
-
-*Ce TP a été réalisé dans le cadre du cours de Big Data (Année Universitaire 2025-2026) sous la supervision de Yasser El Madani El Alami.  
-L'ensemble du code, configurations et documentations est ouvert et modifiable selon les termes de la licence MIT.*
-#   B I G D A T A _ l a b _ c l u s t e r _ s p a r k  
+ 
  
