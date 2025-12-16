@@ -14,7 +14,7 @@ Ce TP a pour objectif de mettre en place un cluster Big Data complet avec Docker
 
 ---
 
-## 📁 Structure du Projet
+## 📁 Structure du Projet :
 ```
 BIGDATA_LAB_cluster_spark/
 ├── README.md                           # Documentation principale
