@@ -12,7 +12,7 @@ Ce TP a pour objectif de mettre en place un cluster Big Data complet avec Docker
 - ❖ Étude de cas : Intégration de Spark avec MongoDB Atlas
 - ❖ Visualisation des résultats avec Matplotlib et Seaborn
 
----
+---  
 
 ## 📁 Structure du Projet :
 ```
